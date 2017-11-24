@@ -1,6 +1,6 @@
-# ResumeDeft
+# Share Resume
 
-**ResumeDeft is a Python Flask Application where one can store their CVs, Resumes and Portfolios to share their links on other websites**
+**Share resume is a Python Flask Application where one can store their CVs, Resumes and Portfolios to share their links on other websites**
 
 ## To Use
 
